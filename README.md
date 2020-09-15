@@ -18,3 +18,4 @@ on od.ProductID = p.ProductID
 inner join Suppliers as s
 on s.SupplierID = p.SupplierID
 where s.Country = 'Brazil';
+

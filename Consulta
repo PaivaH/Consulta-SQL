@@ -1,3 +1,4 @@
+Resposta da questão 3, esse é igual ao readme, só esta melhor organizado;
 Chaves: 
 Customers.CustomerID = Orders.CustomerID
 Orders.OrderID = OrderDetails.OrderID

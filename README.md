@@ -2,10 +2,10 @@
 Comadandos no sql que são necessarios para realizar a consulta da questão 3, no site: https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all.
 
 Chaves: 
-Customers.CustomerID = Orders.CustomerID
-Orders.OrderID = OrderDetails.OrderID
-OrderDetails.ProductID = Products.ProductID
-Products.SupplierID = Suppliers.SupplierID
+Customers.CustomerID = Orders.CustomerID;
+Orders.OrderID = OrderDetails.OrderID;
+OrderDetails.ProductID = Products.ProductID;
+Products.SupplierID = Suppliers.SupplierID;
 
 SELECT * 
 FROM Customers as c
